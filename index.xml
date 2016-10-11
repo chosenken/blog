@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramble Ramble Ramble</title>
-    <link>http://chosenken.github.io/blog/index.xml</link>
+    <link>https://chosenken.github.io/blog/index.xml</link>
     <description>Recent content on Ramble Ramble Ramble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chosenken.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chosenken.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The First Post</title>
-      <link>http://chosenken.github.io/blog/blog/first-post/</link>
+      <link>https://chosenken.github.io/blog/blog/first-post/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://chosenken.github.io/blog/blog/first-post/</guid>
+      <guid>https://chosenken.github.io/blog/blog/first-post/</guid>
       <description>&lt;p&gt;A new first post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>http://chosenken.github.io/blog/about/</link>
+      <link>https://chosenken.github.io/blog/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://chosenken.github.io/blog/about/</guid>
+      <guid>https://chosenken.github.io/blog/about/</guid>
       <description>
 
 &lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
